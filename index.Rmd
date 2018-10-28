@@ -1,22 +1,14 @@
 ---
-title: "Holy cow!"
+title: "Homework 4"
 output:
   html_document:
     toc: true
     toc_float: true
 ---
 
-### I have a webpage!
+### This is my webpage.
+And you can access Google [here](https://www.google.com).
 
-And I can put all kinds of stuff on it!
-
-I can add text here!
-
-### Add a link
-
-I like [look something in google](https://www.google.com)
-
-I can link directly to [my about page](about.html)
 
 ### Add a picture
 
